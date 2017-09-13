@@ -5,5 +5,5 @@ if(riddle === 	triskaidecagon || tridecagon){
 }  
 else{
  alert("acces denied");
-  prompt("What shape has 13 sides");
+  riddle;
 } 

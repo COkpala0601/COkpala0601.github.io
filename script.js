@@ -6,4 +6,11 @@ if(riddle === tridecagon){
 else{
  alert("acces denied, try again");
   riddle;
-} 
+}
+
+var dude= document.getElementById('guy');
+var container= document.getElementById('container');
+function anim(e){
+alert(e.keyCode);
+}
+document.onkeydown = anim;

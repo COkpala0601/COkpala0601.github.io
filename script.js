@@ -9,7 +9,3 @@ else{
 }
 
 
-function anim(e){
-alert(e.keyCode);
-}
-document.onkeydown = anim;

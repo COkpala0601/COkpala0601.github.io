@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 body{
-background-color: lime;
+background-color: darkgreen;
 height: 1200;
 width: 1200;
 }
 p{
 color: lightblue;
 font-size: 20;
+ font-family:"Open Sans", sans-serif;
 }

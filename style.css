@@ -5,9 +5,10 @@ background: black;
 }	
 p{
 color: white;	
-font-family:"Open Sans", sans-serif;	
+font-family: Arial, Arial,sans-serif;	
+	
 }	
-.Central {
+.Social {
     background-color: red;
     color: white;
     padding: 15px 32px;
@@ -16,7 +17,8 @@ font-family:"Open Sans", sans-serif;
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
-}.Social {
+}
+.Central {
     background-color: orange;
     color: white;
     padding: 15px 32px;
@@ -26,7 +28,7 @@ font-family:"Open Sans", sans-serif;
     font-size: 16px;
     cursor: pointer;
 }
-.Growth {
+.Growth{
     background-color: yellow;
     color: white;
     padding: 15px 32px;
@@ -46,7 +48,7 @@ font-family:"Open Sans", sans-serif;
     font-size: 16px;
     cursor: pointer;
 }
-.Tools {
+.Advanced {
     background-color: cyan;
     color: white;
     padding: 15px 32px;
@@ -56,17 +58,7 @@ font-family:"Open Sans", sans-serif;
     font-size: 16px;
     cursor: pointer;
 }
-.Tools {
-    background-color: cyan;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
-}
-.Trade {
+.Tools{
     background-color: blue;
     color: white;
     padding: 15px 32px;
@@ -76,8 +68,18 @@ font-family:"Open Sans", sans-serif;
     font-size: 16px;
     cursor: pointer;
 }
-.Advanced {
-    background-color: Purple;
+.Trade {
+    background-color: purple;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Writing {
+    background-color: magenta;
     color: white;
     padding: 15px 32px;
     text-align: center;
